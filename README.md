@@ -6,5 +6,5 @@ This app uses Flask, the Twilio module, and the Spotipy module.
 I also used Ngrok to tunnel the Webhooks from Twilio to my Local Host.
 
 
-#Deprecation
+# Deprecation
 I no longer actively use this app, pursuing other, simpler options on Twilio
